@@ -1,5 +1,5 @@
 ## Overview
-Active Directory OU Hierarchy documents the configuration settings and *OU hierarchy* of Active Directory local domain environment.
+Active Directory Identity & Access management documents Identity management in Active Directory domain environment using Organizational Unit hierarchy, privilege separation and administrative delegation design.
 ## OU Hierarchy
 ![AD-OU-Hierarchy](./assets/AD-OU-Hierarchy.png)
 							*Active Directory OU Hierarchy*
